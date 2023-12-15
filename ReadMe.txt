@@ -3,9 +3,8 @@ Katherine Anne Parajes(Computer Engineering)
 
 Samuel Brown(Computer Engineering)
 
-
 Luis Cardenas(Computer Engineering) 
-Priscilla DeLeon (Electrical Engineering)
+
 
 Student Number: 5002509715
 
@@ -17,7 +16,6 @@ BROWNS56@unlv.nevada.edu
 
 Cardel1@unlv.nevada.edu
 
-deleop1@unlv.nevada.edu
 
 Abstract: 
   
